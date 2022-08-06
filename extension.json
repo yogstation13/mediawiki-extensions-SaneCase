@@ -1,8 +1,9 @@
 {
 	"name": "SaneCase",
-	"version": "1.1",
+	"version": "1.2",
 	"author": [
-		"Martin Tournoij"
+		"Martin Tournoij",
+		"Alexkar598"
 	],
 	"description": "Automatically redirect case mistakes",
 	"url": "https://www.mediawiki.org/wiki/Extension:SaneCase",
